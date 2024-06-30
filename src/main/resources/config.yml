@@ -1,0 +1,10 @@
+# Text when calling a command
+# Custom templates:
+# <PLAYER> - player nickname
+# <SPACE> - space
+helpText:
+  - "<RGB:1,1,1>~~~ <SPACE> <RGB:0.19,0.56,0.97> Help <SPACE> <RGB:1,1,1> ~~~"
+  - "<RGB:1,1,1> Here's more information about the <SPACE> <RGB:0.4,0.5,0.8> server"
+
+# Text before displaying the list of server commands (displayed after the text above)
+commandsListText: "<RGB:1,1,1> Server commands:"

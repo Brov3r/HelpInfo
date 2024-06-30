@@ -1,0 +1,13 @@
+name: "Help Information"
+id: "help-info"
+description: "Help Information"
+author: "Brov3r"
+version: "%PROJECT_VERSION%"
+environment: "server"
+license: "MIT"
+contacts: "https://github.com/brov3r/"
+entrypoints:
+  - "com.brov3r.help.Main"
+dependencies:
+  pz-core: ">=41.78.16"
+  avrix-loader: ">=1.1.0"
