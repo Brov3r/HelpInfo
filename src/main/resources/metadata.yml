@@ -10,4 +10,4 @@ entrypoints:
   - "com.brov3r.help.Main"
 dependencies:
   pz-core: ">=41.78.16"
-  avrix-loader: ">=1.1.0"
+  avrix-loader: ">=1.5.0"
